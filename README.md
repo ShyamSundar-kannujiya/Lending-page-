@@ -15,7 +15,7 @@ Key Features
 * **HTML5:** Semantic structure of the webpage.
 * **CSS3:** Custom styling, Flexbox layouts, and hover effects.
 * **JavaScript:** Handling form interactions and basic validation logic.
- 📸 Preview
+  Preview
 <img width="639" height="323" alt="image" src="https://github.com/user-attachments/assets/63edba51-efce-4778-8759-fce929cf89aa" />
 📂 Project Structure
 ```text
